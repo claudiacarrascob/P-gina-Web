@@ -1,0 +1,37 @@
+body{
+    background-color: rgba(220, 207, 24, 0.658);
+    color: rgb(111, 23, 11);
+    font-family: 'Cormorant Garamond', serif;
+}
+
+/*Así se pone in comment*/
+
+h1, p{
+    color: #a4082d;    
+}
+
+h3{
+    color: #890b0b;
+}
+
+.img1 {
+    width: 200px;
+    height: 200px;
+    border-style: groove ;
+    border-width: 15px;
+    border-color: aliceblue;
+    margin-left: 15px;
+   
+}
+
+.img2 {
+    width: 350px;
+    height: 200px;
+    border-style: groove;
+    margin-left: 15px;
+}
+
+small{
+    background-color: rgb(234, 139, 139);
+    color: rgb(116, 69, 12);
+}
